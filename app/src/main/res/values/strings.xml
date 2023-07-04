@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">textview</string>
+    <string name="welcome">WELCOME</string>
+    <string name="let_s_count_together_0">Let\'s count together:0</string>
+    <string name="_1">+1</string>
+    <string name="_2">-2</string>
+    <string name="_3">-1</string>
+</resources>
